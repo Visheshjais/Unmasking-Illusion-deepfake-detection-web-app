@@ -150,16 +150,6 @@ http://localhost:5173
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create a new branch `git checkout -b feature/your-feature`
-3. Commit your changes `git commit -m "add your feature"`
-4. Push to the branch `git push origin feature/your-feature`
-5. Open a Pull Request
-
 ---
 
 ## 📄 License
@@ -202,25 +192,4 @@ Feel free to check the [issues page](https://github.com/Visheshjais/Unmasking-Il
 <p align="center">Built with ❤️ at JUIT by Vishesh Jaiswal & Anuroop Srivastava</p>
 ```
 
----
 
-### ✅ What's Updated
-
-| Section | Change |
-|---|---|
-| **Authors** | Added both Vishesh & Anuroop with badges |
-| **Contributing** | Mentions JUIT college project context |
-| **Footer** | Credits both contributors |
-
----
-
-### 💡 2 Things to Do
-
-**1. Update Anuroop's GitHub link** — replace `AnuroopSrivastava` with his actual GitHub username if it's different.
-
-**2. Add him as a contributor on GitHub:**
-```
-Go to your repo → Settings → Collaborators → Add Anuroop's GitHub username
----
-
-<p align="center">⭐ Star this repo if you found it helpful!</p>
